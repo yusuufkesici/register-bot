@@ -1,0 +1,13 @@
+{
+  "prefix" : "!",
+  "sahip" : "sahip",  
+  "token" : "token",
+  "tag" : "Noydra",
+  "erkekrol" : "erkek rok id",
+  "kizrol" : "karı rol id",
+  "kayıtcirol" : "gayıdcı rol id",
+  "kayitchat" : "gayıt ced",
+  "unregister" : "gayıdsız rol id",
+  "unregisternick" : "İsim | Yaş",
+  "kuralchat" : "kurallar kanal id"
+}
